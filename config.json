@@ -1,0 +1,11 @@
+{
+  "app": {
+    "name": "driftguard",
+    "version": "1.0.0",
+    "debug": false
+  },
+  "cache": {
+    "ttl": 3600,
+    "max_size": 500
+  }
+}
